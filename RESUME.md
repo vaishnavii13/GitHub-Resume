@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/vaishnavii13/GitHub-Resume/blob/main/Screenshot%202026-03-10%20135451.png" align="center" style="width: 100%" />
+<img src="Vaishnavi Bollam GitHub Banner.png" align="center" style="width: 100%" />
 </div>  
   
 
